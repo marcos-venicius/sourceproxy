@@ -1,0 +1,16 @@
+{
+  "name": "sourceproxy",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [],
+  "author": {
+    "email": "marcosdevelopment.business@gmail.com",
+    "name": "Marcos Venicius"
+  },
+  "license": "MIT",
+  "description": "Firewall source port bypass",
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
